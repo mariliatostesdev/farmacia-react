@@ -1,0 +1,6 @@
+.home-img {
+	background-image: url(../../assets/home.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
