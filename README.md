@@ -1,3 +1,9 @@
+
+https://github.com/mariliatostesdev/farmacia-react/assets/133540781/a6208d37-e68b-4be1-b775-6075cd315300
+
+***
+***
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
