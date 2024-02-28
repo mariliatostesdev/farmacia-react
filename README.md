@@ -1,5 +1,5 @@
 
-https://github.com/mariliatostesdev/farmacia-react/assets/133540781/a6208d37-e68b-4be1-b775-6075cd315300
+https://github.com/mariliatostesdev/farmacia-react/assets/133540781/6d58e0fc-c642-4a04-92bc-70004ed5269a
 
 ***
 ***
